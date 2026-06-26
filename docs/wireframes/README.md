@@ -6,14 +6,18 @@ Wireframes zeigen noch kein finales Design.
 
 Sie helfen uns zu verstehen:
 
-- Welche Seiten brauchen wir?
-- Welche Informationen stehen auf jeder Seite?
-- Wie navigiert der Nutzer durch die Anwendung?
-- Welche Bereiche sind für unser Hauptfeature wichtig?
+* Welche Seiten brauchen wir?
+* Welche Informationen stehen auf jeder Seite?
+* Wie navigiert der Nutzer durch die Anwendung?
+* Welche Bereiche sind für unser Hauptfeature wichtig?
 
-## Geplante Wireframes
+## Bereits erstellt
 
-- Dashboard
-- Gästeliste
-- Sitzplaner
-- einfache Navigation
+* Dashboard
+* Sitzplaner
+
+## Noch geplant
+
+* Gästeliste
+* einfache Navigation
+
